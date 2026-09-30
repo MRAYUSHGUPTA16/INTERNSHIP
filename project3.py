@@ -73,7 +73,7 @@ def main():
 
     while True:
 
-        print("\n===== STUDENT RECORD MANAGEMENT SYSTEM =====")
+        print("\nSTUDENT RECORD MANAGEMENT SYSTEM")
 
         print("1. Add Student")
         print("2. View Students")
