@@ -27,7 +27,7 @@ def view_students():
 
     for student in students:
 
-        print("----------------------")
+        
         print("Roll:", student["roll"])
         print("Name:", student["name"])
         print("Branch:", student["branch"])
